@@ -1,0 +1,6 @@
+.container {
+  @exntend %message;
+  background-color: lightblue;
+}
+
+/*# sourceMappingURL=inheritance.css.map */
