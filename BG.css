@@ -2,6 +2,17 @@ body {
 	background-color: lightblue;
 }
 
+ul{
+  list-style-type:none;
+}
+
+
+@media screen and (max-width : 1284px){
+  body{
+  background-color: yellow;
+  }
+}
+
 <style>
 
 .responsive{
